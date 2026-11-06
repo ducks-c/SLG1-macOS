@@ -1,6 +1,6 @@
 <div align="center">
              <img src="images/AppIcon.png" alt="SLG1 macOS Logo" width="256" />
-             <h1>macOS on Surface Laptop Go 1 (4GB/64GB)</h1>
+             <h1>macOS on Surface Laptop Go (4GB/64GB)</h1>
 </div>
 
 A project using [Acidanthera's OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
